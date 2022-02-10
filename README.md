@@ -8,4 +8,4 @@ I'm currently learning more about other programming languages besides the one I'
 
 I have a background in physics and, from now on, I'm committing myself to articulate concepts and structures from the three aforementioned fields into neat projects.
 
-Feel free to contact me at jorgegoncalves1992@protonmail.com if you're interested in inviting me to collaborate on some low to mid complexity level project.
+Feel free to contact me at jorgegoncalves1992@protonmail.com if you're interested in inviting me to collaborate on a low to mid complexity level project.
